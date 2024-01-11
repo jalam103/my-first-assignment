@@ -1,0 +1,40 @@
+.bg-image{
+  background-image: url('../images/Banner\ Image.png');
+  width: 1320px;
+  height: 600px;
+  margin: 50px auto;
+}
+.header{
+  text-align: center;
+}
+.hpy{
+  color: #FFF;
+  font-family: Merriweather;
+  font-size: 32px;
+  padding-top: 170px;
+}
+.celebration{
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;  
+}
+.discount{
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 80px;
+}
+.holiday{
+  text-align: center;
+  color: #F00;
+}
+.cetegories{
+  text-align: center;
+  color: #070211;
+}
+.hny{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
